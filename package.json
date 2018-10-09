@@ -1,0 +1,28 @@
+{
+  "name": "shanghaimetro",
+  "version": "1.0.0",
+  "description": "d3 shanghai metro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ymyqwe/shanghaiMetro.git"
+  },
+  "author": "Mania",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ymyqwe/shanghaiMetro/issues"
+  },
+  "homepage": "https://github.com/ymyqwe/shanghaiMetro#readme",
+  "dependencies": {
+    "d3": "^5.7.0",
+    "sass": "^1.14.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0"
+  }
+}
